@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BV-DJPotter
+- 👀 I’m interested in security & automation
+- 🌱 I’m currently learning Python
+- 📫 How to reach me ... davitt.potter@bluevoyant.com OR davittjpotter@outlook.com
